@@ -10,13 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0dbd65d8-da0e-4af2-a696-5201e27548ab" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Package.resolved" beforeDir="false" afterPath="$PROJECT_DIR$/Package.resolved" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Package.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Package.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sources/CliApp/Commands.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/CliApp/Commands.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sources/CliApp/IgdbAPI.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/CliApp/Api.swift" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Sources/CliApp/main.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/CliApp/main.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/CliAppTests/CliAppTests.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/CliAppTests/CliAppTests.swift" afterDir="false" />
     </list>
     <ignored path="$USER_HOME$/Library/Caches/AppCode2018.3/DerivedData/CliApp-athpjgxrdaneencvbaaguseiyqwz/" />
     <ignored path="$PROJECT_DIR$/.build/" />
@@ -29,11 +23,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="macos_x86_64" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Sources/CliApp/main.swift">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="94" selection-start-line="5" selection-start-column="94" selection-end-line="5" selection-end-column="94" />
+            <state relative-caret-position="45">
+              <caret line="3" column="69" selection-start-line="3" selection-start-column="69" selection-end-line="3" selection-end-column="69" />
             </state>
           </provider>
         </entry>
@@ -41,7 +35,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Sources/CliApp/Api.swift">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
+            <state relative-caret-position="390">
               <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
               <folding>
                 <element signature="e#54#71#0" expanded="true" />
@@ -50,10 +44,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Sources/CliApp/Commands.swift">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="586">
+            <state relative-caret-position="1350">
               <caret line="90" column="167" selection-start-line="90" selection-start-column="167" selection-end-line="90" selection-end-column="167" />
               <folding>
                 <element signature="e#54#71#0" expanded="true" />
@@ -107,10 +101,10 @@
       <list>
         <option value="$PROJECT_DIR$/Sources/CliApp/IgdbAPI.swift" />
         <option value="$PROJECT_DIR$/Tests/CliAppTests/CliAppTests.swift" />
-        <option value="$PROJECT_DIR$/Sources/CliApp/main.swift" />
         <option value="$PROJECT_DIR$/Sources/CliApp/Api.swift" />
         <option value="$PROJECT_DIR$/Package.swift" />
         <option value="$PROJECT_DIR$/Sources/CliApp/Commands.swift" />
+        <option value="$PROJECT_DIR$/Sources/CliApp/main.swift" />
       </list>
     </option>
   </component>
@@ -271,7 +265,7 @@
       <workItem from="1547153966970" duration="81000" />
       <workItem from="1547518529935" duration="15218000" />
       <workItem from="1547599264369" duration="486000" />
-      <workItem from="1547600233308" duration="26511000" />
+      <workItem from="1547600233308" duration="26709000" />
     </task>
     <servers />
   </component>
@@ -308,7 +302,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43595000" />
+    <option name="totallyTimeSpent" value="43793000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1417" extended-state="6" />
@@ -469,23 +463,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sources/CliApp/main.swift">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="94" selection-start-line="5" selection-start-column="94" selection-end-line="5" selection-end-column="94" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sources/CliApp/Api.swift">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
-          <folding>
-            <element signature="e#54#71#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.build/checkouts/SwiftCLI-1701750818403612985/Sources/SwiftCLI/Option.swift">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="307">
@@ -509,11 +486,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Sources/CliApp/Commands.swift">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="586">
+        <state relative-caret-position="1350">
           <caret line="90" column="167" selection-start-line="90" selection-start-column="167" selection-end-line="90" selection-end-column="167" />
           <folding>
             <element signature="e#54#71#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sources/CliApp/Api.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+          <folding>
+            <element signature="e#54#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sources/CliApp/main.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="69" selection-start-line="3" selection-start-column="69" selection-end-line="3" selection-end-column="69" />
         </state>
       </provider>
     </entry>
