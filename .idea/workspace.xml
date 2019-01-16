@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0dbd65d8-da0e-4af2-a696-5201e27548ab" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Package.resolved" beforeDir="false" afterPath="$PROJECT_DIR$/Package.resolved" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Package.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Package.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sources/CliApp/Commands.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/CliApp/Commands.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sources/CliApp/IgdbAPI.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/CliApp/Api.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sources/CliApp/main.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/CliApp/main.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/CliAppTests/CliAppTests.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/CliAppTests/CliAppTests.swift" afterDir="false" />
+    </list>
+    <ignored path="$USER_HOME$/Library/Caches/AppCode2018.3/DerivedData/CliApp-athpjgxrdaneencvbaaguseiyqwz/" />
+    <ignored path="$PROJECT_DIR$/.build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="macos_x86_64" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Sources/CliApp/main.swift">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="94" selection-start-line="5" selection-start-column="94" selection-end-line="5" selection-end-column="94" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Sources/CliApp/Api.swift">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+              <folding>
+                <element signature="e#54#71#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Sources/CliApp/Commands.swift">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="586">
+              <caret line="90" column="167" selection-start-line="90" selection-start-column="167" selection-end-line="90" selection-end-column="167" />
+              <folding>
+                <element signature="e#54#71#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.build/checkouts/SwiftyTextTable.git-4023571123309739063/Source/SwiftyTextTable/TextTable.swift">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="389">
+              <caret line="49" column="32" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.build/checkouts/SwiftCLI-1701750818403612985/Sources/SwiftCLI/Option.swift">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="307">
+              <caret line="96" column="11" selection-start-line="96" selection-start-column="11" selection-end-line="96" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tests/CliAppTests/CliAppTests.swift">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="722">
+              <caret line="53" column="35" selection-start-line="53" selection-start-column="35" selection-end-line="53" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>guard</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Sources/CliApp/IgdbAPI.swift" />
+        <option value="$PROJECT_DIR$/Tests/CliAppTests/CliAppTests.swift" />
+        <option value="$PROJECT_DIR$/Sources/CliApp/main.swift" />
+        <option value="$PROJECT_DIR$/Sources/CliApp/Api.swift" />
+        <option value="$PROJECT_DIR$/Package.swift" />
+        <option value="$PROJECT_DIR$/Sources/CliApp/Commands.swift" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="2560" />
+    <option name="height" value="1417" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Cidr.FilesView" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="CliApp" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="CliApp" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Sources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="CliApp" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Sources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="CliApp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="CliApp" type="1d218c8b:XcodeProjectNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="CliApp" type="1d218c8b:XcodeProjectNode" />
+              <item name="Dependencies" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="CliApp" type="1d218c8b:XcodeProjectNode" />
+              <item name="Sources" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="CliApp" type="1d218c8b:XcodeProjectNode" />
+              <item name="Sources" type="fcab9f18:XcodeViewNode" />
+              <item name="CliApp" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="CliApp" type="1d218c8b:XcodeProjectNode" />
+              <item name="Tests" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="CliApp" type="1d218c8b:XcodeProjectNode" />
+              <item name="Tests" type="fcab9f18:XcodeViewNode" />
+              <item name="CliAppTests" type="fcab9f18:XcodeViewNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="OBJC.PRESERVED_TARGET_SELECTION" value="CliApp" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="XCTest.CliAppTests.testIntParsing">
+    <configuration name="All in CliAppTests" type="OCUnitRunConfiguration" factoryName="XCTest/Kiwi" nameIsGenerated="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CliApp" TARGET_NAME="CliAppTests" CONFIG_NAME="Debug" SCHEME_NAME="All in CliAppTests" IS_LOCATION_SIMULATION_ALLOWED="true" LOCATION_SCENARIO_ID="com.apple.dt.IDEFoundation.CurrentLocationScenarioIdentifier" LOCATION_SCENARIO_TYPE="1" TEST_MODE="SUITE_TEST" XCODE_TESTS_HASH_CODE="0">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CliAppTests.testDateParser" type="OCUnitRunConfiguration" factoryName="XCTest/Kiwi" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CliApp" TARGET_NAME="CliAppTests" CONFIG_NAME="Debug" SCHEME_NAME="CliAppTests.testDateParser" IS_LOCATION_SIMULATION_ALLOWED="true" TEST_CLASS="CliAppTests" TEST_METHOD="testDateParser" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CliAppTests.testDecode" type="OCUnitRunConfiguration" factoryName="XCTest/Kiwi" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CliApp" TARGET_NAME="CliAppTests" CONFIG_NAME="Debug" SCHEME_NAME="CliAppTests.testDecode" IS_LOCATION_SIMULATION_ALLOWED="true" TEST_CLASS="CliAppTests" TEST_METHOD="testDecode" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CliAppTests.testFileExists" type="OCUnitRunConfiguration" factoryName="XCTest/Kiwi" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CliApp" TARGET_NAME="CliAppTests" CONFIG_NAME="Debug" SCHEME_NAME="CliAppTests.testFileExists" IS_LOCATION_SIMULATION_ALLOWED="true" TEST_CLASS="CliAppTests" TEST_METHOD="testFileExists" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CliAppTests.testIntParsing" type="OCUnitRunConfiguration" factoryName="XCTest/Kiwi" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CliApp" TARGET_NAME="CliAppTests" CONFIG_NAME="Debug" SCHEME_NAME="CliAppTests.testIntParsing" IS_LOCATION_SIMULATION_ALLOWED="true" TEST_CLASS="CliAppTests" TEST_METHOD="testIntParsing" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CliAppTests.testSimpleCall" type="OCUnitRunConfiguration" factoryName="XCTest/Kiwi" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CliApp" TARGET_NAME="CliAppTests" CONFIG_NAME="Debug" SCHEME_NAME="CliAppTests.testSimpleCall" IS_LOCATION_SIMULATION_ALLOWED="true" TEST_CLASS="CliAppTests" TEST_METHOD="testSimpleCall" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CliApp" />
+      <item itemvalue="Application.CliApp-Package" />
+      <item itemvalue="XCTest.All in CliAppTests" />
+      <item itemvalue="XCTest.CliAppTests.testSimpleCall" />
+      <item itemvalue="XCTest.CliAppTests.testDecode" />
+      <item itemvalue="XCTest.CliAppTests.testFileExists" />
+      <item itemvalue="XCTest.CliAppTests.testDateParser" />
+      <item itemvalue="XCTest.CliAppTests.testIntParsing" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="XCTest.CliAppTests.testIntParsing" />
+        <item itemvalue="XCTest.CliAppTests.testDateParser" />
+        <item itemvalue="XCTest.CliAppTests.testFileExists" />
+        <item itemvalue="XCTest.CliAppTests.testSimpleCall" />
+        <item itemvalue="XCTest.CliAppTests.testDecode" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0dbd65d8-da0e-4af2-a696-5201e27548ab" name="Default Changelist" comment="" />
+      <created>1547151610793</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547151610793</updated>
+      <workItem from="1547151614293" duration="956000" />
+      <workItem from="1547152914276" duration="343000" />
+      <workItem from="1547153966970" duration="81000" />
+      <workItem from="1547518529935" duration="15218000" />
+      <workItem from="1547599264369" duration="486000" />
+      <workItem from="1547600233308" duration="26511000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CliAppTests_testSimpleCall - 2019.01.15 at 21h 05m 28s.xml">
+      <configuration name="CliAppTests.testSimpleCall" configurationId="OCUnitRunConfiguration" />
+    </history-entry>
+    <history-entry file="CliAppTests_testSimpleCall - 2019.01.15 at 21h 11m 16s.xml">
+      <configuration name="CliAppTests.testSimpleCall" configurationId="OCUnitRunConfiguration" />
+    </history-entry>
+    <history-entry file="CliAppTests_testSimpleCall - 2019.01.15 at 21h 14m 16s.xml">
+      <configuration name="CliAppTests.testSimpleCall" configurationId="OCUnitRunConfiguration" />
+    </history-entry>
+    <history-entry file="CliAppTests_testSimpleCall - 2019.01.15 at 21h 16m 03s.xml">
+      <configuration name="CliAppTests.testSimpleCall" configurationId="OCUnitRunConfiguration" />
+    </history-entry>
+    <history-entry file="CliAppTests_testSimpleCall - 2019.01.15 at 21h 53m 43s.xml">
+      <configuration name="CliAppTests.testSimpleCall" configurationId="OCUnitRunConfiguration" />
+    </history-entry>
+    <history-entry file="CliAppTests_testFileExists - 2019.01.16 at 10h 11m 30s.xml">
+      <configuration name="CliAppTests.testFileExists" configurationId="OCUnitRunConfiguration" />
+    </history-entry>
+    <history-entry file="CliAppTests_testDateParser - 2019.01.16 at 11h 22m 51s.xml">
+      <configuration name="CliAppTests.testDateParser" configurationId="OCUnitRunConfiguration" />
+    </history-entry>
+    <history-entry file="CliAppTests_testIntParsing - 2019.01.16 at 13h 00m 16s.xml">
+      <configuration name="CliAppTests.testIntParsing" configurationId="OCUnitRunConfiguration" />
+    </history-entry>
+    <history-entry file="CliAppTests_testIntParsing - 2019.01.16 at 13h 00m 55s.xml">
+      <configuration name="CliAppTests.testIntParsing" configurationId="OCUnitRunConfiguration" />
+    </history-entry>
+    <history-entry file="CliAppTests_testIntParsing - 2019.01.16 at 13h 02m 16s.xml">
+      <configuration name="CliAppTests.testIntParsing" configurationId="OCUnitRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="43595000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="2560" height="1417" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19062749" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28603774" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32830188" />
+      <window_info anchor="bottom" id="Build" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2930403" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4053476" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3290566" />
+      <window_info anchor="bottom" id="Build" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.build/checkouts/SwiftCLI--8935328225384517329/Sources/SwiftCLI/Command.swift" />
+    <entry file="file://$PROJECT_DIR$/.build/checkouts/Moya.git-3759636976132030576/Sources/Moya/MoyaProvider.swift" />
+    <entry file="file://$PROJECT_DIR$/.build/checkouts/Moya.git-3759636976132030576/Sources/Moya/Plugins/NetworkLoggerPlugin.swift" />
+    <entry file="file://$PROJECT_DIR$/Tests/CliAppTests/XCTestManifests.swift">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="appcode.project-settings://6614fd8b">
+      <provider selected="true" editor-type-id="AppCode.ProjectSettings" />
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/Resources/module_cache.zip!/ModuleCache/10B61/4.2.1/x86_64/macosx10.14/Foundation/Foundation.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="4167" column="14" selection-start-line="4167" selection-start-column="14" selection-end-line="4167" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.build/checkouts/Alamofire.git-1964949782797465690/Source/ParameterEncoding.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="408" column="14" selection-start-line="408" selection-start-column="14" selection-end-line="408" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.build/checkouts/Moya.git--617123786188938341/Sources/Moya/Moya+Alamofire.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="18" column="62" selection-start-line="18" selection-start-column="62" selection-end-line="18" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.build/checkouts/Moya.git--617123786188938341/Sources/Moya/MoyaProvider.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-491">
+          <caret line="46" column="11" selection-start-line="46" selection-start-column="11" selection-end-line="46" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.build/checkouts/SwiftCLI-1701750818403612985/Sources/SwiftCLI/Input.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="20" column="77" selection-start-line="20" selection-start-column="77" selection-end-line="20" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.build/checkouts/SwiftCLI-1701750818403612985/Sources/SwiftCLI/Validation.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.build/checkouts/SwiftCLI-1701750818403612985/Sources/SwiftCLI/Compatibility.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="63" column="23" selection-start-line="63" selection-start-column="23" selection-end-line="63" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/Resources/module_cache.zip!/ModuleCache/10B61/4.2.1/x86_64/macosx10.14/Foundation.NSURLError/Foundation.NSURLError.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1230">
+          <caret line="89" column="11" selection-start-line="89" selection-start-column="11" selection-end-line="89" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.build/checkouts/SwiftCLI-1701750818403612985/Sources/SwiftCLI/Error.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.build/checkouts/SwiftCLI-1701750818403612985/Sources/SwiftCLI/Command.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="70" column="25" selection-start-line="70" selection-start-column="4" selection-end-line="70" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.build/checkouts/Moya.git--617123786188938341/Sources/Moya/Task.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/Resources/module_cache.zip!/ModuleCache/10B61/4.2.1/x86_64/macosx10.14/Foundation.NSNumberFormatter/Foundation.NSNumberFormatter.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/CliAppTests/CliAppTests.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="53" column="35" selection-start-line="53" selection-start-column="35" selection-end-line="53" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sources/CliApp/main.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="94" selection-start-line="5" selection-start-column="94" selection-end-line="5" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sources/CliApp/Api.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+          <folding>
+            <element signature="e#54#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.build/checkouts/SwiftCLI-1701750818403612985/Sources/SwiftCLI/Option.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="96" column="11" selection-start-line="96" selection-start-column="11" selection-end-line="96" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Package.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="82" selection-start-line="11" selection-start-column="82" selection-end-line="11" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.build/checkouts/SwiftyTextTable.git-4023571123309739063/Source/SwiftyTextTable/TextTable.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="49" column="32" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sources/CliApp/Commands.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="586">
+          <caret line="90" column="167" selection-start-line="90" selection-start-column="167" selection-end-line="90" selection-end-column="167" />
+          <folding>
+            <element signature="e#54#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
